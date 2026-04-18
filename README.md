@@ -1,2 +1,1 @@
-# .github
-# this is Help file
+# This project refer to DevOps demo project
